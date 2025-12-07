@@ -1,5 +1,5 @@
 # MMAG-ReID
-Masked Graph Structure and Multi-scale Attention-based Graph Network for Vehicle Re-Identification
+MMAG-ReID: Multi-Scale Masked Attentive Graphs for Occlusion-Robust Vehicle Re-Identification
 
 ## Train
 ### Training on VeRi-776 dataset：
